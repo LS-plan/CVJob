@@ -13,12 +13,6 @@
         android:theme="@style/Theme.CVJob"
         tools:targetApi="31">
         <activity
-            android:name=".ZQM"
-            android:exported="false" />
-        <activity
-            android:name=".ZYCActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
